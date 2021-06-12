@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moremikumaster:blocks/shiliore2",
+    "up": "moremikumaster:blocks/shiliore2",
+    "north": "moremikumaster:blocks/shiliore",
+    "east": "moremikumaster:blocks/shiliore2",
+    "south": "moremikumaster:blocks/shiliore2",
+    "west": "moremikumaster:blocks/shiliore2",
+    "particle": "moremikumaster:blocks/shiliore2"
+  }
+}

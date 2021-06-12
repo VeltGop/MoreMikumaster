@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "More Miku Matser",
+    "icon": {
+      "value": "CUSTOM:MikuMaster"
+    },
+    "showSearch": true
+  }
+}

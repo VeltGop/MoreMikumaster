@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moremikumaster:blocks/shiliheiyaoshi",
+    "up": "moremikumaster:blocks/shiliheiyaoshi",
+    "north": "moremikumaster:blocks/shiliheiyaoshi",
+    "east": "moremikumaster:blocks/shiliheiyaoshi",
+    "south": "moremikumaster:blocks/shiliheiyaoshi",
+    "west": "moremikumaster:blocks/shiliheiyaoshi",
+    "particle": "moremikumaster:blocks/shiliheiyaoshi"
+  }
+}

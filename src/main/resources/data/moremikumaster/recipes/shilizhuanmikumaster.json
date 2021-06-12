@@ -1,0 +1,42 @@
+{
+  "group": "moremikumaster",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moremikumaster:shili"
+    },
+    "1": {
+      "item": "moremikumaster:shili"
+    },
+    "2": {
+      "item": "moremikumaster:shili"
+    },
+    "3": {
+      "item": "moremikumaster:shili"
+    },
+    "4": {
+      "item": "minecraft:emerald_block"
+    },
+    "5": {
+      "item": "moremikumaster:shili"
+    },
+    "6": {
+      "item": "moremikumaster:shili"
+    },
+    "7": {
+      "item": "moremikumaster:shili"
+    },
+    "8": {
+      "item": "moremikumaster:shili"
+    }
+  },
+  "result": {
+    "item": "moremikumaster:miku_master",
+    "count": 1
+  }
+}

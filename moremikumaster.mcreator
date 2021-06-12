@@ -1,0 +1,129 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MikuMasterDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miku_master_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MikuMaster",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miku_master"
+    },
+    {
+      "name": "MoreMikuMatser",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_miku_matser"
+    },
+    {
+      "name": "Shiliore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shiliore"
+    },
+    {
+      "name": "Shili",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shili"
+    },
+    {
+      "name": "Shilizhuanmikumaster",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shilizhuanmikumaster"
+    },
+    {
+      "name": "Shiliren",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shiliren"
+    },
+    {
+      "name": "Mishenheiyaoshi",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mishenheiyaoshi"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.moremikumaster.mishenheiyaoshi": "Mishenheiyaoshi",
+      "block.moremikumaster.shiliore": "Shiliore",
+      "advancements.shiliren.title": "SHILIREN",
+      "item.moremikumaster.shili": "Shili",
+      "item.moremikumaster.miku_master": "Miku Master",
+      "itemGroup.tabmore_miku_matser": "More Miku Matser",
+      "advancements.shiliren.descr": "石粒！！！"
+    },
+    "zh_cn": {
+      "block.moremikumaster.mishenheiyaoshi": "Mishenheiyaoshi",
+      "block.moremikumaster.shiliore": "石粒矿石",
+      "advancements.shiliren.title": "实力人",
+      "item.moremikumaster.shili": "石粒",
+      "item.moremikumaster.miku_master": "石粒的米神！",
+      "itemGroup.tabmore_miku_matser": "更多米神",
+      "advancements.shiliren.descr": "石粒！！！"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "moremikumaster",
+    "modName": "MoreMikuMaster",
+    "version": "1.0.0",
+    "author": "Admin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "xyz.veltgop.moremikumaster",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "moremikumaster",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      },
+      {
+        "value": "CUSTOM:Shili"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MikuMaster"
+    },
+    "name": "shilizhuanmikumaster",
+    "namespace": "mod"
+  }
+}
